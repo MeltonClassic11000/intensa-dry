@@ -92,7 +92,7 @@ a.dropdown-item {
 }
 
 .fa-phone-alt:before {
-    content: "\f879";
+    content: "\f095";
     background-color: #007bff;
     color: #fff;
     padding: 10px;
@@ -103,6 +103,7 @@ a.dropdown-item {
     width: 40px;
     height: 40px;
     font-size: 16px;
+    transform: rotate(90deg);
 }
 
 a.nav-link.phone-number {
