@@ -466,7 +466,7 @@ section.why.choose.py-5 {
     color: #0d6efd;
     /* Black for main hero title */
     font-weight: 700;
-    font-size: clamp(2.5rem, 5vw, 3.8rem);
+    font-size: clamp(24px, 5vw, 56px);
     line-height: 1.2;
     margin-bottom: 20px;
 }
